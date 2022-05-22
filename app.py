@@ -6,4 +6,3 @@ app = Flask(_name_)
 def index():
 	return 'Hello World with Flask'
 
-app.run()
